@@ -1,4 +1,4 @@
-#Girilen sayının basamak değerleri çarpımını bulunuz?
+#Girilen sayının basamak sayısını bulunuz?
 
 sayi = int(input("sayıyı giriniz: "))
 toplambasamaksayısı = 0
